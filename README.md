@@ -1,2 +1,2 @@
-# data8hub-shibboleth-docker
+# jhub-data8-shibboleth-docker
 Docker image for Jupyterhub with Data8 and Shibboleth compatibility
